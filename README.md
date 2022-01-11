@@ -10,3 +10,6 @@ This repo contains the voting application's source code. We have developped a mo
 * Ethereum JavaScript API - [Web3.Js](https://github.com/ChainSafe/web3.js/)
 * Smart Contract - [Solidity](https://github.com/ethereum/solidity)
 
+## Presentation:
+
+* [Our Presentation](https://www.canva.com/design/DAEzxTsU8Xo/D_f4vvDQ_XfPtG4Ebi7Ezw/view?utm_content=DAEzxTsU8Xo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
